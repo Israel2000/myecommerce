@@ -1,0 +1,15 @@
+{
+  "name": "ecommerce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "israel b",
+  "license": "ISC",
+  "homepage": "http://israel2000.github.io/myecommerce",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
